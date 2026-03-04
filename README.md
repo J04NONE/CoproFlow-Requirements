@@ -12,4 +12,4 @@ Sistema SaaS diseñado para la automatización administrativa y financiera bajo 
 ## 📁 Estructura del Proyecto
 * [Documentación IEEE 830](./docs/srs_ieee830.md)
 * [Historias de Usuario](./backlog/user_stories.md)
-* [Matriz de Trazabilidad]((./validacion/matriz_trazabilidad.md))
+* [Matriz de Trazabilidad](./validacion/matriz_trazabilidad.md)
