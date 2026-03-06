@@ -13,5 +13,9 @@ Este documento define los requisitos para **CoproFlow**, enfocado en la normativ
 | RF-04 | Libro de Quejas y Reclamos | Usuario | Media |
 
 ## 3. Requisitos No Funcionales (RNF)
-* **Seguridad:** Encriptación AES-256 para datos financieros.
-* **Rendimiento:** Carga en < 3s en dispositivos móviles.
+| ID | Categoría | Descripción | Métrica |
+| :--- | :--- | :--- | :--- |
+| RNF-01 | Seguridad | Encriptación AES-256 para datos financieros | Cumplimiento 100% |
+| RNF-02 | Rendimiento | Carga en < 3s en dispositivos móviles | 95th percentile |
+| RNF-03 | Disponibilidad | Disponibilidad del sistema del 99.5% en horario laboral (8am-6pm) | Monitoreo 24/7 |
+| RNF-04 | Compatibilidad | Soporte para iOS 13+, Android 8.0+ y navegadores modernos (Chrome, Firefox, Safari) | Testing en múltiples dispositivos |
